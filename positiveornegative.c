@@ -4,6 +4,8 @@ void main(){
   scanf("%d",&n);
   if(n>0)
     printf("positive");
+  else if(n<0)
+    printf("negative");
   else
-    print("negative");
+    printf("zero")
 }
