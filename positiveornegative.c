@@ -7,5 +7,5 @@ void main(){
   else if(n<0)
     printf("negative");
   else
-    printf("zero")
+    printf("zero");
 }
